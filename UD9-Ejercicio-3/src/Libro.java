@@ -31,6 +31,10 @@ public class Libro {
 	public void setnPaginas(int nPaginas) {
 		this.nPaginas = nPaginas;
 	}
+	@Override
+	public String toString() {
+		return " El Libro con isbn " + isbn + " creado por el autor " + autor + " tiene " + nPaginas + " páginas";
+	}
 	
 	
 	
