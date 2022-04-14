@@ -1,4 +1,7 @@
-
+/*
+ * @author Joan Hurtado Garcia / Jose Antonio González Alcántara / Daniel Fernandez Cacho
+ * version 1.0
+ */
 public class Ej3 {
 
 	public static void main(String[] args) {
