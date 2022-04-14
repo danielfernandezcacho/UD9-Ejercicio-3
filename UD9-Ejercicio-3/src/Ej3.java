@@ -1,5 +1,5 @@
 /*
- * @author Joan Hurtado Garcia / Jose Antonio González Alcántara / Daniel Fernandez Cacho
+ * @author Joan Hurtado Garcia / Jose Antonio Gonzalez Alcantara / Daniel Fernandez Cacho
  * version 1.0
  */
 public class Ej3 {
