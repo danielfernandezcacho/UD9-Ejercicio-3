@@ -7,6 +7,14 @@ public class Libro {
 	private int nPaginas;
 	
 	
+	
+	public Libro(String isbn, String titulos, String autor, int nPaginas) {
+		this.isbn = isbn;
+		this.titulos = titulos;
+		this.autor = autor;
+		this.nPaginas = nPaginas;
+	}
+	
 	public String getIsbn() {
 		return isbn;
 	}
