@@ -2,11 +2,8 @@
 public class Ej3 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-		Libro libro1 = new Libro("01", "El Nombre del Viento", "Patrick Rothufuss", 1600);
-		Libro libro2 = new Libro("02", "El Temor de un hombre sabio", "Patrick Rothufuss", 1500);
-		
-		compararPaginas(libro1, libro2);
 		
 	}
 
